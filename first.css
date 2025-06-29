@@ -1,0 +1,79 @@
+/* Thisn is for external Sheet means this is the another page of CSS and then link to our HTML page .
+h3{
+color: aqua;
+}
+
+button{
+    color:brown;
+    background-color: cyan;
+}
+body{
+    background-color: rgb(28,60,68);
+}
+#i1{
+    color: bisque;
+}
+#i2{
+    color:blueviolet;
+}
+p{
+    color: azure;
+    text-align: left;
+    font-size: px;
+   
+}
+
+h1{
+    color:white;
+    text-align: center;
+     text-decoration:underline dotted ;
+}
+
+a{
+    color: beige;
+    text-decoration: none;
+}
+
+#i3{
+    font-weight:normal ;
+}
+#i4{
+    font-weight:300 ;
+}
+#i5{
+    font-weight:bolder ;
+}
+#i6{
+    font-weight:lighter ;
+}
+
+#one{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+#two{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#three{
+    line-height: 100px;
+} */
+
+
+/* Box MODEL IN CSS */
+#div{
+    height: 200px;
+    width: 200px;
+    /* background-color: gold; */
+    /* border-width: 10px; */
+    /* border-style: groove;
+    border-color: aquamarine ;
+    text-align: center; */
+    align-items: center;
+    border: 5px dotted brown;              /*This border is shortend*/
+
+    border-radius: 50%;                     /* This is for round corner. and when height and width is square then 50% can become a circle  */
+    
+}
